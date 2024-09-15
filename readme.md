@@ -61,7 +61,7 @@ Setting up the environment involves:
 + Environment Preparation: Set up your Python environment and install necessary libraries (Pandas, Psycopg).
 + Database Configuration: Configure PostgreSQL, open Shell Script and use your password to configure postgreSQL<br />
 
-<img src="https://github.com/esradem/portfolio/blob/main/Wealtness_of_Countries/images/Screenshot%202024-05-03%20at%2013.27.28.png?raw=true" width="400" height="200"> <br />
+<img src="https://github.com/esradem/wealtness-of-countries/blob/main/images/Screenshot%202024-05-03%20at%2013.27.28.png?raw=true" width="400" height="200"> <br />
 
 + After configuration you can open Jupyter Notebook and prepare, clean, manipulate data. 
 
@@ -75,6 +75,6 @@ Setting up the environment involves:
 - Export data to Power BI for more advanced visual reporting.
 + Insights and Reporting: Synthesize findings into actionable insights and prepare a final report in Power BI.
 
-<img src="https://github.com/esradem/portfolio/blob/main/Wealtness_of_Countries/images/global%20finance.jpg?raw=true" ><br />
+<img src="https://github.com/esradem/wealtness-of-countries/blob/main/images/global%20finance.jpg?raw=true" ><br />
 
 
