@@ -25,7 +25,7 @@ Natural Capital Per Capita: This comprises data on natural resources such as for
 Employment Rates: Specific focus on gender-based employment statistics, comparing male and female workforce participation rates globally.
 Total Wealth: The overall economic value of natural and human capital, along with produced capital.
 ## Methodology
-![Method diagram](https://github.com/esradem/portfolio/blob/main/Wealtness_of_Countries/images/FA_Arch.jpeg?raw=true)<br />
+![Method diagram](https://github.com/esradem/wealtness-of-countries/blob/main/images/FA_Arch.jpeg?raw=true)<br />
 
 ### Data Analysis:
 + Cleaning and Normalizing Data: Ensuring data consistency through the removal of null values and standardizing measurement scales.
